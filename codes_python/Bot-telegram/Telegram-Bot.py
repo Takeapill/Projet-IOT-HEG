@@ -22,7 +22,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler, ContextTypes, filters
 
 # Constants
-TOKEN = "6065858871:AAHjrJiUkfzCn0tcn2JP0Y5lysmpHjhT35w"
+TOKEN = ""
 UDP_QUERY_IP_ADDRESS = "192.168.1.142"
 UDP_PKT_ADDRESS = "127.0.0.1"
 TCP_QUERY_IP_ADDRESS = "192.168.1.142"
